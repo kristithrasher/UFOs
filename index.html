@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,14 +12,17 @@
   <link rel="stylesheet" href="static/css/style.css">
 </head>
 
-<body>
+<body class="bg-dark">
   <div class="wrapper">
-    <nav class="navbar navbar-expand-lg">
+    <!-- This will apply a dark background and light lettering 
+      to the navbar for us, without any extra styling in the CSS stylesheet.
+     -->
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
       <a class="navbar-brand" href="index.html">UFO Sightings</a>
     </nav>
   </div>
   <div class="jumbotron">
-    <h1>The Truth Is Out There</h1>
+    <h1 class="display-4">The Truth Is Out There</h1>
   </div>
   <div class="container-fluid">
     <div class="row">
@@ -50,18 +52,33 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-3">
-        <form>
+        <form class="big-dark">
           <p>Filter Search</p>
-          <ul class="list-group">
+          <ul class="big-dark">
+            <li class="big-dark">
+              <label for="date">Enter Date</label>
+              <input type="text" placeholder="1/10/2010" id="datetime" />
+            </li>
+            <li class="big-dark">
+              <label for="date">Enter City</label>
+              <input type="text" placeholder="park city" id="city" />
+            </li>
+            <li class="big-dark">
+              <label for="date">Enter State</label>
+              <input type="text" placeholder="ky" id="state" />
+            </li>
+            <li class="big-dark">
+              <label for="date">Enter Country</label>
+              <input type="text" placeholder="us" id="country" />
+            </li>
+            <li class="big-dark">
+              <label for="date">Enter Shape</label>
+              <input type="text" placeholder="light" id="shape" />
+            </li>
+
           </ul>
-          <li class="list-group-item">
-            <label for="date">Enter Date</label>
-            <input type="text" placeholder="1/10/2010" id="datetime" />
-          </li>
-          <li class="list-group-item">
-            <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
-          </li>
         </form>
+
 
 
 
