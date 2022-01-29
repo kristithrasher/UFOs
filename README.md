@@ -3,6 +3,10 @@
 Working with a web application with a single filter for date UFO sightings given a data.js file. Now, the creater, Dana web journalist would like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, I added table filters for the date, city, state, country, and shape.
 
 ### Analysis
+
+There is a description of how to perform a search, with images. (4 pt)
+The way you would use the UFO webpage by using the search criteria input boxes available. When you pull your webpage up you will see 5 different options to input text on what you want to search that specifically relates to UFO sightings data that is in the data file we have. Here is an image of UFO webpage.
+
 Updated the index.html, app.js files to add filters on specific data such as date, city, state, country and shape allows us to get specific data relevant to what  user is searching. 
 I completed this by adding more list items under our form in the html file for UFO webpage. 
 
@@ -19,3 +23,17 @@ Two additional recommendations for further development or drawbacks I see are li
     
     2. I would add a way to search a broader scope of data. Right now we are limited to what is in the data file and may be hard to know what to search because every bit of information on UFO sightings in not listed in the data file. 
 
+
+
+The written analysis has the following:
+
+Overview of the analysis:
+
+The purpose is well defined (2 pt)
+Results:
+
+There is a description of how to perform a search, with images. (4 pt)
+Summary:
+
+The summary addresses one drawback of this webpage (2 pt)
+The summary addresses two additional recommendations for further development (4 pt)
