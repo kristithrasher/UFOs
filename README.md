@@ -8,9 +8,13 @@ The way you would use the UFO webpage by using the search criteria input boxes a
 the html file for UFO webpage. 
 
 #### Results:
+<<<<<<< HEAD
 Completed the adding multiple search criteria or filters to our webpage by adding the necessary code to our html file. Result is a working web application that allows search criteria for 5 specific filters. 
 Here is an example of the newly added search criteria for our web page. 
 
+=======
+A working web application that allows search criteria for 5 multiple filters. 
+>>>>>>> edd82c7a4ebb0dd8a20ae8b0cddafb1f4551828d
  
 ### Summary: 
 You can search for multiple criteria by user input. You have five different search options based on UFO sightings. You can search by date, city, state, coutry and shape of UFO sightings. If you search for a particular date it will pull up all UFO sightings based on that date and information that is within our data.js file. You can search this way for any of the 5 search options. 
