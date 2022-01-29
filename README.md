@@ -14,6 +14,7 @@ Here is an example of the newly added search criteria for our web page.
 
 Steps to complete this task would be first opening the web application and enter the data it is asking for in the correct text input box. 
 
+
 Knowing my data file I entered the city of "el cajon" and the shape of "light" and it resulted in table data matching both the city and shape for entry. 
 
 
@@ -21,7 +22,6 @@ If I wanted to search on just the shape: "light" of the UFO then it would popula
 Example of searching on just the shape: "light" of a UFO sighting within our limited data.  
 
 
-ENTER THE IMAGE ON HOW TO SEARCH
  
 ### Summary: 
 You can search for multiple criteria by user input. You have five different search options based on UFO sightings. You can search by date, city, state, coutry and shape of UFO sightings. If you search for a particular date it will pull up all UFO sightings based on that date and information that is within our data.js file. You can search this way for any of the 5 search options. 
