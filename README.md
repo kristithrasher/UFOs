@@ -7,7 +7,7 @@ Updated the index.html, app.js files to add filters on specific data such as dat
 I completed this by adding more list items under our form in the html file for UFO webpage. 
 
 #### Results:
-A working web application that allows search criteria for 5 specific filters. 
+A working web application that allows search criteria for 5 multiple filters. 
  
 ### Summary: 
 You can search for multiple criteria by user input. You have five different search options based on UFO sightings. You can search by date, city, state, coutry and shape of UFO sightings. If you search for a particular date it will pull up all UFO sightings based on that date and information that is within our data.js file. You can search this way for any of the 5 search options. 
