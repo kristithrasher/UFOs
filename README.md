@@ -7,7 +7,7 @@
 
 #### Results:
 Result is a working web application that allows search criteria for multiple search critera.  
-Here is an example of the newly added search criteria for our web page in our html file.
+Here is an example of the newly added search criteria for our web application in our html file.
 Date, City, State, Country and Shape all are provided for user to use in a search. 
 * A description on how to perform a search is as follows,  
 * Once you pull your webpage up you will see 5 different options to input text. The default as the page is loaded is all data from data file is displayed on table. 
