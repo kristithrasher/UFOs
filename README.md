@@ -1,15 +1,13 @@
 # UFOs
 ### Analysis
 #### Overview of the analysis:
-  Working with a web application with a single filter for UFO sightings based on Date. The puurpose of this project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the  same time. In addition to the date, I added table filters for city, state, country, and shape. This allows for not just a single search filter but a multiple search filter for UFO sightings based on provide data file. Used HTML, JavaScript, CSS, BOOTSTRAP to complete this task. 
+Working with a web application with a single filter for UFO sightings based on Date. The puurpose of this project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the  same time. In addition to the date, I added table filters for city, state, country, and shape. This allows for not just a single search filter but a multiple search filter for UFO sightings based on provide data file. Used HTML, JavaScript, CSS, BOOTSTRAP to complete this task. 
 
 
 #### Results:
-Result is a working web application that allows search criteria for multiple search critera.  
-Here is an example of the newly added search criteria for our web application in our html file.
-Date, City, State, Country and Shape all are provided for user to use in a search. 
+The result is a working web application that allows search criteria for multiple search critera. The following is an example of the newly added search criteria for our web application in our html file. Date, City, State, Country and Shape all are provided for user to use in a search. 
 * A description on how to perform a search is as follows,  
-* Once you pull your webpage up you will see 5 different options to input text. The default as the page is loaded is all data from data file is displayed on table. 
+  *  Once you pull your webpage up you will see 5 different options to input text. The default as the page is loaded is all data from data file is displayed on table. 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/94208810/151680217-6d820691-fe01-4d22-b8f7-1ad772e05f7d.png)
 
