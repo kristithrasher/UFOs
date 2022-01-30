@@ -1,8 +1,7 @@
 # UFOs
 ### Analysis
 #### Overview of the analysis:
- Working with a web application with a single filter for UFO sightings based on Date.
- * Purpose of this project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the  same time. In addition to the date, I added table filters for city, state, country, and shape. This allows for not just a single search filter but a multiple search filter for UFO sightings based on provide data file. Used HTML, JavaScript, CSS, BOOTSTRAP to complete this task. 
+  Working with a web application with a single filter for UFO sightings based on Date. The puurpose of this project is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the  same time. In addition to the date, I added table filters for city, state, country, and shape. This allows for not just a single search filter but a multiple search filter for UFO sightings based on provide data file. Used HTML, JavaScript, CSS, BOOTSTRAP to complete this task. 
 
 
 #### Results:
